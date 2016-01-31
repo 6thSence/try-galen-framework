@@ -1,0 +1,11 @@
+@objects
+    header      .flexcontainer_1
+    logo        .logo
+    menu        .stitched
+    content     .flexcontainer
+    first-item  #item_1
+    last-item   #item_5
+
+= Header =
+    logo: 
+        left-of menu 5 to 10 px
